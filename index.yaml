@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  privatesql-server-marketplace:
+  - apiVersion: v2
+    created: "2023-11-17T11:53:05.393641-05:00"
+    description: PrivateSQL Server Marketplace is the PrivateSQL deployment to GCP
+      marketplace
+    digest: 09f7bc15f80565f830194d6eaae715c81e2b266780ae5d45043245ace0cccdf8
+    name: privatesql-server-marketplace
+    type: application
+    urls:
+    - privatesql-server-marketplace-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-17T11:53:05.39261-05:00"
